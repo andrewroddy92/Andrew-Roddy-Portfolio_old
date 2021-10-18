@@ -69,6 +69,16 @@ nav a {
     flex-basis:66.66%;
 }
 
+.first-work h3 {
+    text-align: center;
+    padding: 25px;
+    margin-top: 10px;
+}
+
+.first-work p {
+    text-align: center;
+}
+
 .first-work img {
     margin: 10px 0px 10px 25px;
     width: 93%;
@@ -79,9 +89,19 @@ nav a {
     opacity: 1;
 }
 
+.other-works h3 {
+    text-align: center;
+    padding: 25px;
+    margin-top: 10px;
+}
+
+.other-works p {
+    text-align: center;
+}
+
 .other-works img {
     margin: 10px 0px 10px 25px;
-    width: 45%;
+    width: 93%;
     justify-content: center;
 }
 
